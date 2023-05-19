@@ -1,0 +1,11 @@
+# ninja log v5
+7	62	0	D:/Projects/Qt_C++/Learning_Qt_/00_ExploringTheEnv/build-00_ExploringTheEnv-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9cbe119074aca0ae
+10	588	7061898779260158	00_ExploringTheEnv_autogen/mocs_compilation.cpp	b233039d1aa41305
+2307	5750	7061881020780793	CMakeFiles/00_ExploringTheEnv.dir/00_ExploringTheEnv_autogen/mocs_compilation.cpp.obj	c505e3c384697350
+10	588	7061898779260158	00_ExploringTheEnv_autogen/timestamp	b233039d1aa41305
+10	588	7061898779260158	D:/Projects/Qt_C++/Learning_Qt_/00_ExploringTheEnv/build-00_ExploringTheEnv-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/00_ExploringTheEnv_autogen/timestamp	b233039d1aa41305
+647	2825	7061898801620154	CMakeFiles/00_ExploringTheEnv.dir/mainwindow.cpp.obj	24e48928fb7e11e6
+10	588	7061898779260158	D:/Projects/Qt_C++/Learning_Qt_/00_ExploringTheEnv/build-00_ExploringTheEnv-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/00_ExploringTheEnv_autogen/mocs_compilation.cpp	b233039d1aa41305
+607	2873	7061898802110137	CMakeFiles/00_ExploringTheEnv.dir/main.cpp.obj	5a26ec6aa1bb269e
+2874	3278	7061898806060138	00_ExploringTheEnv.exe	1575c9b70cd60cac
+7	54	0	D:/Projects/Qt_C++/Learning_Qt_/00_ExploringTheEnv/build-00_ExploringTheEnv-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9cbe119074aca0ae
