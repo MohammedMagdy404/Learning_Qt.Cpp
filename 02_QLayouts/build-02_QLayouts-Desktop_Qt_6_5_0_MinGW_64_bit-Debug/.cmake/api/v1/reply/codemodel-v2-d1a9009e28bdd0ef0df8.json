@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1c4a70db619ce18ec848.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_QLayouts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QLayouts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QLayouts-Debug-6327e8f9c7a56051bb3b.json",
+					"name" : "02_QLayouts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QLayouts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QLayouts_autogen-Debug-e6599e96ea0bd1bfb5d0.json",
+					"name" : "02_QLayouts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QLayouts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QLayouts_autogen_timestamp_deps-Debug-b4b7580da3453bc6e888.json",
+					"name" : "02_QLayouts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/Qt_C++/Learning_Qt_/02_QLayouts/build-02_QLayouts-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "D:/Projects/Qt_C++/Learning_Qt_/02_QLayouts/02_QLayouts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
