@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/05_Project_TextEditor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor",
+	"CMAKE_SOURCE_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor",
+	"INCLUDE_DIR" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/05_Project_TextEditor_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/new.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/saveAs.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/exit.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/save.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/open.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/print.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/copy.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/paste.png",
+		"D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/icons/cut.png"
+	],
+	"LOCK_FILE" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/05_Project_TextEditor_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.5.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/build-05_Project_TextEditor-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/05_Project_TextEditor_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Projects/Qt_C++/Learning_Qt_/05_Project_Text Editor/05_Project_TextEditor/resources.qrc",
+	"VERBOSITY" : 0
+}
